@@ -10,6 +10,6 @@ You should see intially see
 
 ![Initial screen](https://github.com/leedale1981/ouexamples/blob/master/hotel-chain/images/CheckInScreen1.PNG)
 
-Entering a reservation number in the box for example "res23" shoudl display
+Entering a reservation number in the box for example "res23" should display
 
 ![Clicking button](https://github.com/leedale1981/ouexamples/blob/master/hotel-chain/images/CheckInScreen2.PNG)
